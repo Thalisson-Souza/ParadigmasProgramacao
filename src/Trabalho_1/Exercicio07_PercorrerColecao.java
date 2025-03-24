@@ -1,4 +1,4 @@
-package exercicios.Trabalho_1;
+package Trabalho_1;
 
 import java.util.ArrayList;
 import java.util.Scanner;

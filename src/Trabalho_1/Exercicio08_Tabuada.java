@@ -1,4 +1,4 @@
-package exercicios.Trabalho_1;
+package Trabalho_1;
 
 public class Exercicio08_Tabuada {
     public static void main(String[] args) {
